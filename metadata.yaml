@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/28343
     wikipedia: http://www.famousamericans.net/marvinrichardsonvincent/
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25018#Amusement--A-Force-in-Christian-Training
 gutenberg_issued: '2008-04-08'
 gutenberg_type: Text
 identifiers:
